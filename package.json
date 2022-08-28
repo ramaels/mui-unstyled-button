@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/base": "latest",
+    "@mui/system": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.2/docs/data/base/components/button/UnstyledButtonCustom.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "o5335t",
+  "version": "0.0.2",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
